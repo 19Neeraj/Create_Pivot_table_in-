@@ -15,8 +15,7 @@ const data = [
   { zone: 'INS', customer_category: 'WI', SUM_revenue: 795 },
   { zone: 'INN', customer_category: 'Retail', SUM_revenue: 34482 },
   { zone: 'INN', customer_category: 'DP', SUM_revenue: 17228 },
-  { zone: 'INN', customer_category: 'CPDP', SUM_revenue: 110811 },
-  { zone: 'INW', customer_category: 'CPDP', SUM_revenue: 18535 }
+  { zone: 'INN', customer_category: 'CPDP', SUM_revenue: 110811 }
 ];
 
 const Home = () => {
